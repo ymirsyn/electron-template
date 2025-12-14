@@ -31,22 +31,22 @@
   "dependencies": {
     "@electron-toolkit/preload": "^3.0.2",
     "@electron-toolkit/utils": "^4.0.0",
-    "electron-updater": "^6.3.9"
+    "electron-updater": "^6.7.3"
   },
   "devDependencies": {
     "@electron-toolkit/tsconfig": "^2.0.0",
-    "@types/node": "^22.19.1",
+    "@types/node": "^25.0.2",
     "@types/react": "^19.2.7",
     "@types/react-dom": "^19.2.3",
-    "@vitejs/plugin-react": "^5.1.1",
-    "electron": "^39.2.6",
-    "electron-builder": "^26.0.12",
+    "@vitejs/plugin-react": "^5.1.2",
+    "electron": "^39.2.7",
+    "electron-builder": "^26.3.6",
     "electron-vite": "^5.0.0",
-    "eslint": "^9.39.1",
+    "eslint": "^9.39.2",
     "prettier": "^3.7.4",
-    "react": "^19.2.1",
-    "react-dom": "^19.2.1",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
     "typescript": "^5.9.3",
-    "vite": "^7.2.6"
+    "vite": "^7.2.7"
   }
 }
